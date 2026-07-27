@@ -52,10 +52,10 @@ This challenge emphasizes all aspects of the engineering process, including:
 **STS3215 servo (7.4V):**
 | Specifications: |
 | ------------- |
-| Voltage: 12V |
+| Voltage: 7.4V |
 | Gear Ratio: 1:345 |
 | Speed (at 7.4V): 53 RPM |
-| Torque: 5. 0 kg·cm |
+| Torque: 19.5 kg·cm |
 | Weight: 55g ± 1g |
 | Encoder: Magnetic, 4096 counts per revolution |
 |<img width="600" height="600" alt="407893fdcce8f4cda1cb6a1fcec4 jpg" src="https://github.com/user-attachments/assets/e1d177c3-8ff5-417e-9c58-2843a8215edc" />|
